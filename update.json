@@ -1,6 +1,6 @@
 {
   "version": "1.2.4",
-  "buildVersion": "24",
+  "buildVersion": 24,
   "required": true,
   "description": {
   "en": "New version is available",

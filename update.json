@@ -6,11 +6,11 @@
   "en": "New version is available",
     "fa":"نسخه جدید در دسترس می باشد"
   },
-  "urls":{
-"android": {"store": "", "direct": ""},
-"ios": {"store": "", "direct": ""},
-"macos": {"store": "", "direct": ""},
-"windows": {"store": "", "direct": ""},
-"linux": {"store": "", "direct": ""}
-}
+  "urls":[
+  {"os": "android","store": "", "direct": ""},
+{"os": "ios", "store": "", "direct": ""},
+{"os": "macos", "store": "", "direct": ""},
+{"os": "windows", "store": "", "direct": ""},
+{"os": "linux", "store": "", "direct": ""}
+  ]
 }

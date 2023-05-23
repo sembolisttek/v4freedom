@@ -7,10 +7,10 @@
     "fa":"نسخه جدید در دسترس می باشد"
   },
   "urls":[
-  {"os": "android","store": "", "direct": ""},
+  {"os": "android","store": "https://play.google.com/store/apps/details?id=com.cilix.v4freedom", "direct": "https://rb.gy/4wasm"},
 {"os": "ios", "store": "", "direct": ""},
 {"os": "macos", "store": "", "direct": ""},
 {"os": "windows", "store": "", "direct": ""},
-{"os": "linux", "store": "", "direct": ""}
+{"os": "linux", "store": "https://snapcraft.io/v4freedom", "direct": "https://rb.gy/dwz4e"}
   ]
 }

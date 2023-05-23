@@ -1,0 +1,16 @@
+{
+  "version": "1.2.4",
+  "buildVersion": "24",
+  "required": true,
+  "description": {
+  "en": "New version is available",
+    "fa":"نسخه جدید در دسترس می باشد"
+  }
+  "urls":{
+"android": {"store": "", "direct": ""}
+"ios": {"store": "", "direct": ""}
+"macos": {"store": "", "direct": ""}
+"windows": {"store": "", "direct": ""}
+"linux": {"store": "", "direct": ""}
+}
+}

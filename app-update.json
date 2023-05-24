@@ -1,9 +1,9 @@
 {
-  "version": "1.2.4",
-  "buildVersion": 24,
+  "version": "2.0.0",
+  "buildVersion": 26,
   "required": true,
   "description": {
-    "en": "New version is available",
+    "en": "The new version is available now.",
     "fa": "نسخه جدید در دسترس می باشد"
   },
   "urls": [

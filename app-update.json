@@ -10,7 +10,7 @@
     {
       "os": "android",
       "store": "https://play.google.com/store/apps/details?id=com.cilix.v4freedom",
-      "direct": "https://rb.gy/4wasm"
+      "direct": "https://rebrand.ly/v4fdandroid"
     },
     {
       "os": "ios",
@@ -30,7 +30,7 @@
     {
       "os": "linux",
       "store": "https://snapcraft.io/v4freedom",
-      "direct": "https://rb.gy/dwz4e"
+      "direct": "https://rebrand.ly/v4flinux"
     }
   ]
 }

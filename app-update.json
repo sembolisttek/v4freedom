@@ -1,6 +1,6 @@
 {
-  "version": "2.0.0",
-  "buildVersion": 26,
+  "version": "2.1.0",
+  "buildVersion": 27,
   "required": true,
   "description": {
     "en": "The new version is available now.",

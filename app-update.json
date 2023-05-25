@@ -24,8 +24,8 @@
     },
     {
       "os": "windows",
-      "store": "",
-      "direct": ""
+      "store": "https://apps.microsoft.com/store/detail/v4freedom/9N39W0CHLGB9",
+      "direct": "https://rebrand.ly/v4fwindows"
     },
     {
       "os": "linux",

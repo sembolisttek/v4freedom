@@ -1,10 +1,10 @@
 {
-  "version": "2.1.0",
-  "buildVersion": 27,
+  "version": "2.2.0",
+  "buildVersion": 31,
   "required": true,
   "description": {
-    "en": "The new version is available now.",
-    "fa": "نسخه جدید در دسترس می باشد"
+    "en": "add VPN manually and with QR code.\nSuggest 4 fastest VPNs based on your network.\nsupport VPN ssh tunnel.\nModify and share your VPNs.\nImprove VPN core",
+    "fa": "قابلیت افزودن وی پی ان به طور دستی و کیوآرکد\nپیشنهاد سریعترین وی پی ان ها باتوجه به شبکه ی اینترنت شما\nپشتیبانی از تونل ssh\nقابلیت ویرایش و اشتراک گذاری وی پی ان های شخصی \nبهبود هسته ی وی پی ان"
   },
   "urls": [
     {

@@ -1,16 +1,16 @@
 {
-  "version": "2.2.0",
-  "buildVersion": 31,
-  "required": true,
+  "version": "2.2.5",
+  "buildVersion": 36,
+  "required": false,
   "description": {
-    "en": "add VPN manually and with QR code.\nSuggest 4 fastest VPNs based on your network.\nsupport VPN ssh tunnel.\nModify and share your VPNs.\nImprove VPN core",
-    "fa": "قابلیت افزودن وی پی ان به طور دستی و کیوآرکد\nپیشنهاد سریعترین وی پی ان ها باتوجه به شبکه ی اینترنت شما\nپشتیبانی از تونل ssh\nقابلیت ویرایش و اشتراک گذاری وی پی ان های شخصی \nبهبود هسته ی وی پی ان"
+    "en": "Support reality v2ray\nAdd more vpn pools\nFix bugs",
+    "fa": "اضافه شدن تنظیمات جدید v2ray\nاضافه شدن سرورهای جدید\nرفع باگ ها"
   },
   "urls": [
     {
       "os": "android",
       "store": "https://play.google.com/store/apps/details?id=com.cilix.v4freedom",
-      "direct": "https://rebrand.ly/v4fdandroid"
+      "direct": "https://v4f.me/android"
     },
     {
       "os": "ios",
@@ -25,12 +25,12 @@
     {
       "os": "windows",
       "store": "https://apps.microsoft.com/store/detail/v4freedom/9N39W0CHLGB9",
-      "direct": "https://rebrand.ly/v4fdwindows"
+      "direct": "https://v4f.me/windows"
     },
     {
       "os": "linux",
       "store": "https://snapcraft.io/v4freedom",
-      "direct": "https://rebrand.ly/v4flinux"
+      "direct": "https://v4f.me/linux"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "version": "2.2.5",
-  "buildVersion": 36,
+  "version": "2.4.3",
+  "buildVersion": 48,
   "required": false,
   "description": {
-    "en": "Support reality v2ray\nAdd more vpn pools\nFix bugs",
-    "fa": "اضافه شدن تنظیمات جدید v2ray\nاضافه شدن سرورهای جدید\nرفع باگ ها"
+    "en": "add tutorial\nfix bug on the fast VPNs",
+    "fa": "اضافه شدن آموزش استفاده از برنامه \nرفع مشکل سریعترین وی‌پی‌ان"
   },
   "urls": [
     {

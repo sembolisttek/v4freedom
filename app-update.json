@@ -1,10 +1,10 @@
 {
-  "version": "2.4.3",
-  "buildVersion": 48,
+  "version": "2.4.5",
+  "buildVersion": 50,
   "required": false,
   "description": {
-    "en": "add tutorial\nfix bug on the fast VPNs",
-    "fa": "اضافه شدن آموزش استفاده از برنامه \nرفع مشکل سریعترین وی‌پی‌ان"
+    "en": "add tutorial\nimprove finding the fast VPNs",
+    "fa": "اضافه شدن آموزش استفاده از برنامه \nبهبود پیدا کردن سریعترین وی‌پی‌ان"
   },
   "urls": [
     {

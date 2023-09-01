@@ -1,7 +1,7 @@
 {
   "version": "2.4.7",
   "buildVersion": 52,
-  "required": false,
+  "required": true,
   "description": {
     "en": "improve finding fast VPNs\nfix shadowsocks format bug",
     "fa": "بهبود پیداکردن سریعترین وی پی ان\nرفع مشکل در فرمت شدوساکس"

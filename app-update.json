@@ -1,16 +1,16 @@
 {
-  "version": "2.4.7",
-  "buildVersion": 52,
+  "version": "2.5.2",
+  "buildVersion": 61,
   "required": true,
   "description": {
-    "en": "improve finding fast VPNs\nfix shadowsocks format bug",
-    "fa": "بهبود پیداکردن سریعترین وی پی ان\nرفع مشکل در فرمت شدوساکس"
+    "en": "Connect to the fastest VPN by start click\nAdd GDPR message from Admob\nDisplay private VPNs\nDisplay IP Network on the menu\nfix bugs",
+    "fa": "وصل شدن به سریعترین وی پی ان با کلیک اتصال\nاضافه شدن پیام GDPR\nنمایش وی پی ان های شخصی\nنمایش ادرس شبکه در منو\nرفع باگ ها"
   },
   "urls": [
     {
       "os": "android",
       "store": "https://play.google.com/store/apps/details?id=com.cilix.v4freedom",
-      "direct": "https://v4f.me/android"
+      "direct": "https://v4f.xyz/android"
     },
     {
       "os": "ios",
@@ -25,7 +25,7 @@
     {
       "os": "windows",
       "store": "https://apps.microsoft.com/store/detail/v4freedom/9N39W0CHLGB9",
-      "direct": "https://v4f.me/windows"
+      "direct": "https://v4f.xyz/windows"
     },
     {
       "os": "linux",

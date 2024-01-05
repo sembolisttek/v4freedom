@@ -1,10 +1,10 @@
 {
-  "version": "2.5.2",
-  "buildVersion": 61,
-  "required": true,
+  "version": "2.6.0",
+  "buildVersion": 66,
+  "required": false,
   "description": {
-    "en": "Connect to the fastest VPN by start click\nAdd GDPR message from Admob\nDisplay private VPNs\nDisplay IP Network on the menu\nfix bugs",
-    "fa": "وصل شدن به سریعترین وی پی ان با کلیک اتصال\nاضافه شدن پیام GDPR\nنمایش وی پی ان های شخصی\nنمایش ادرس شبکه در منو\nرفع باگ ها"
+    "en": "Improve the performance of connecting to the fastest VPN.\nSupport 14 new languages",
+    "fa": "بهبود عملکرد در پیدا  کردن سریعترین وی‌پی‌ان\nافزوده شدن ۱۴ زبان جدید"
   },
   "urls": [
     {

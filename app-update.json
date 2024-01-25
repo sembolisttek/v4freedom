@@ -1,10 +1,10 @@
 {
-  "version": "2.6.2",
-  "buildVersion": 68,
-  "required": false,
+  "version": "3.0.0",
+  "buildVersion": 76,
+  "required": true,
   "description": {
-    "en": "Improve the performance of connecting to the fastest VPN.\nSupport 14 new languages",
-    "fa": "بهبود عملکرد در پیدا  کردن سریعترین وی‌پی‌ان\nافزوده شدن ۱۴ زبان جدید"
+    "en": "Enhanced VPN speed optimization\nCustomizable domain checklist feature\nIn-app language selection\nGeneral bug fixes for improved performance",
+    "fa": "بهینه‌سازی سرعت VPN پیشرفته\nامکان شخصی‌سازی فهرست دامنه‌ها\nانتخاب زبان درون برنامه‌ای\nرفع اشکالات عمومی برای بهبود عملکرد"
   },
   "urls": [
     {

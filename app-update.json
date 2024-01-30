@@ -1,7 +1,7 @@
 {
-  "version": "3.0.0",
-  "buildVersion": 76,
-  "required": true,
+  "version": "3.0.2",
+  "buildVersion": 78,
+  "required": false,
   "description": {
     "en": "Enhanced VPN speed optimization\nCustomizable domain checklist feature\nIn-app language selection\nGeneral bug fixes for improved performance",
     "fa": "بهینه‌سازی سرعت VPN پیشرفته\nامکان شخصی‌سازی فهرست دامنه‌ها\nانتخاب زبان درون برنامه‌ای\nرفع اشکالات عمومی برای بهبود عملکرد"

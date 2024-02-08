@@ -1,10 +1,10 @@
 {
-  "version": "3.0.2",
-  "buildVersion": 78,
-  "required": false,
+  "version": "3.2.0",
+  "buildVersion": 89,
+  "required": true,
   "description": {
-    "en": "Enhanced VPN speed optimization\nCustomizable domain checklist feature\nIn-app language selection\nGeneral bug fixes for improved performance",
-    "fa": "بهینه‌سازی سرعت VPN پیشرفته\nامکان شخصی‌سازی فهرست دامنه‌ها\nانتخاب زبان درون برنامه‌ای\nرفع اشکالات عمومی برای بهبود عملکرد"
+    "en": "Upgrade v2ray and v4freedom cores\nIntroduced Subscription Groups.\nAutomated Subscription Updates.\nEnhanced Performance for Finding the Fastest VPNs.\nOption to Configure VPN Speed Tests in Settings.\nLaunched a Dedicated Page for Managing Your VPNs.\nAdded a Universal 'Magic URL' Input Box for Versatile Message Support.\nEnabled VPN Sharing on Social Media.\nImplemented Per-App Proxy Feature.\nResolved Bugs for Smoother Operation.\nImproved Performance for Desktop Applications.",
+    "fa": "بروزرسانی هسته v2ray و v4freedom\nاضافه شدن گروه‌های اشتراک.\nبه‌روزرسانی خودکار اشتراک.\nبهبود عملکرد یافتن سریع‌ترین وی‌پی‌ان‌ها.\nامکان پیکربندی یافتن سریع‌ترین وی‌پی‌ان‌ها در تنظیمات.\nراه‌اندازی صفحه مدیریت وی‌پی‌ان‌های شما.\nاضافه شدن جعبه ورودی URL جادویی برای پشتیبانی از انواع پیام‌ها.\nامکان به اشتراک گذاری وی‌پی‌ان در شبکه‌های اجتماعی.\nاجرای ویژگی پروکسی برای هر برنامه.\nرفع اشکال برای عملکرد روان‌تر.\nبهبود عملکرد برنامه های دسکتاپ."
   },
   "urls": [
     {

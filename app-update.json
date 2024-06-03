@@ -1,10 +1,10 @@
 {
-  "version": "3.4.0",
-  "buildVersion": 98,
-  "required": true,
+  "version": "3.4.5",
+  "buildVersion": 103,
+  "required": false,
   "description": {
-    "en": "Enhanced VPN/Proxy Mode Support.\nOptimized CPU Usage for Better Performance.\nReduced Battery Consumption for Extended Use.\nTunneling of All Network Traffic in Windows & Linux.",
-    "fa": "پشتیبانی کامل از حالت وی پی ان و پروکسی\nرفع مشکل مصرف بالای سی پی یو\nبهبود مصرف باتری\nقابلیت تونل تمام ترافیک شبکه در نسخه های ویندوز و لینوکس"
+    "en": "Find the fastest VPNs by smart methods.\nImprove finding the fastest VPNs.",
+    "fa": "استفاده از متدهای هوشمند برای پیداکردن سریعترین وی‌پی‌ان.\nبهبود در پیدا کردن سریعترین وی‌پی‌ان."
   },
   "urls": [
     {

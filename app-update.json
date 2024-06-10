@@ -1,7 +1,7 @@
 {
   "version": "3.4.5",
   "buildVersion": 103,
-  "required": false,
+  "required": true,
   "description": {
     "en": "Find the fastest VPNs by smart methods.\nImprove finding the fastest VPNs.",
     "fa": "استفاده از متدهای هوشمند برای پیداکردن سریعترین وی‌پی‌ان.\nبهبود در پیدا کردن سریعترین وی‌پی‌ان."
@@ -10,7 +10,7 @@
     {
       "os": "android",
       "store": "https://play.google.com/store/apps/details?id=com.cilix.v4freedom",
-      "direct": "https://v4f.xyz/android"
+      "direct": "https://github.com/SeyyeddFilterShekan/v4f/raw/main/v4freedom.apk"
     },
     {
       "os": "ios",
@@ -25,7 +25,7 @@
     {
       "os": "windows",
       "store": "https://apps.microsoft.com/store/detail/v4freedom/9N39W0CHLGB9",
-      "direct": "https://v4f.xyz/windows"
+      "direct": "https://github.com/SeyyeddFilterShekan/v4f/raw/main/v4freedom.exe"
     },
     {
       "os": "linux",

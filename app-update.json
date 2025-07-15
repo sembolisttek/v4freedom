@@ -1,10 +1,10 @@
 {
-  "version": "3.4.5",
-  "buildVersion": 103,
+  "version": "3.6.4",
+  "buildVersion": 155,
   "required": true,
   "description": {
-    "en": "Find the fastest VPNs by smart methods.\nImprove finding the fastest VPNs.",
-    "fa": "استفاده از متدهای هوشمند برای پیداکردن سریعترین وی‌پی‌ان.\nبهبود در پیدا کردن سریعترین وی‌پی‌ان."
+    "en": "Ad Blocker\nAdvanced Proxy Rules\nWireGuard & WARP Integration\nOptimized Desktop UI",
+    "fa": "مسدودکننده تبلیغات \nقوانین پیشرفته پراکسی  \nپشتیبانی از WireGuard و WARP  \nرابط کاربری دسکتاپ بهینه‌سازی‌شده"
   },
   "urls": [
     {
@@ -14,12 +14,12 @@
     },
     {
       "os": "ios",
-      "store": "https://apps.apple.com/app/v4freedom/id6451346638",
+      "store": "https://apps.apple.com/app/v4freedom/id6748381720",
       "direct": "https://v4f.me/appstore"
     },
     {
       "os": "macos",
-      "store": "https://apps.apple.com/app/v4freedom/id6451346638",
+      "store": "https://apps.apple.com/app/v4freedom/id6748381720",
       "direct": "https://v4f.me/appstore"
     },
     {

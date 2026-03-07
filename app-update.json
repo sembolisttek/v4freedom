@@ -1,16 +1,16 @@
 {
-  "version": "3.6.4",
-  "buildVersion": 155,
+  "version": "3.8.4",
+  "buildVersion": 195,
   "required": true,
   "description": {
-    "en": "Ad Blocker\nAdvanced Proxy Rules\nWireGuard & WARP Integration\nOptimized Desktop UI",
-    "fa": "مسدودکننده تبلیغات \nقوانین پیشرفته پراکسی  \nپشتیبانی از WireGuard و WARP  \nرابط کاربری دسکتاپ بهینه‌سازی‌شده"
+    "en": "v4freedom Pro\nNo-Ads version",
+    "fa": "v4freedom پرو\nنسخه بدون تبلیغ"
   },
   "urls": [
     {
       "os": "android",
       "store": "https://play.google.com/store/apps/details?id=com.cilix.v4freedom",
-      "direct": "https://github.com/SeyyeddFilterShekan/v4f/raw/main/v4freedom.apk"
+      "direct": "https://media.githubusercontent.com/media/v4freedom-com/v4freedom-app-archive/refs/heads/main/v4freedom.apk"
     },
     {
       "os": "ios",
@@ -25,12 +25,12 @@
     {
       "os": "windows",
       "store": "https://apps.microsoft.com/store/detail/v4freedom/9N39W0CHLGB9",
-      "direct": "https://github.com/SeyyeddFilterShekan/v4f/raw/main/v4freedom.exe"
+      "direct": "https://raw.githubusercontent.com/v4freedom-com/v4freedom-app-archive/refs/heads/main/v4freedom.exe"
     },
     {
       "os": "linux",
       "store": "https://snapcraft.io/v4freedom",
-      "direct": "https://v4f.me/linux"
+      "direct": "https://github.com/v4freedom-com/v4freedom-app-archive"
     }
   ]
 }

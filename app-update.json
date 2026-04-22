@@ -1,7 +1,7 @@
 {
   "version": "3.8.4",
   "buildVersion": 195,
-  "required": true,
+  "required": false,
   "description": {
     "en": "v4freedom Pro\nNo-Ads version",
     "fa": "v4freedom پرو\nنسخه بدون تبلیغ"

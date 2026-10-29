@@ -1,10 +1,10 @@
 {
-  "version": "3.8.4",
-  "buildVersion": 195,
-  "required": false,
+  "version": "4.0.4",
+  "buildVersion": 267,
+  "required": true,
   "description": {
-    "en": "v4freedom Pro\nNo-Ads version",
-    "fa": "v4freedom پرو\nنسخه بدون تبلیغ"
+    "en": "New design with dark and light themes\nEncrypted cloud storage for your configs\nAutomatic config sync across all your devices\nSmart personal server setup\nPremium VPN plans\nSmarter auto-connect to the best server\nReferral and loyalty program\nEmail, Telegram and push notifications\n.v4f file import and per-server usage details\nDoH settings, plus SSH and memory fixes",
+    "fa": "طراحی جدید با تم دارک و لایت\nذخیره‌سازی ابری رمزنگاری‌شده کانفیگ‌ها\nهمگام‌سازی خودکار کانکشن‌ها بین همه دستگاه‌ها\nراه‌اندازی هوشمند سرور شخصی\nپلن‌های Premium VPN\nاتصال خودکار هوشمندتر به بهترین سرور\nبرنامه رفرال و وفاداری\nاطلاع‌رسانی با ایمیل، تلگرام و نوتیفیکیشن\nایمپورت فایل v4f و جزئیات مصرف هر سرور\nتنظیمات DoH و رفع مشکل SSH و حافظه"
   },
   "urls": [
     {
@@ -24,7 +24,7 @@
     },
     {
       "os": "windows",
-      "store": "https://apps.microsoft.com/store/detail/v4freedom/9N39W0CHLGB9",
+      "store": "https://raw.githubusercontent.com/v4freedom-com/v4freedom-app-archive/refs/heads/main/v4freedom.exe",
       "direct": "https://raw.githubusercontent.com/v4freedom-com/v4freedom-app-archive/refs/heads/main/v4freedom.exe"
     },
     {
